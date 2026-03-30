@@ -1,6 +1,3 @@
-# Smart--safety-network-
-A smart AI-based safety system that detects distress situations and instantly alerts the nearest police station, emergency contacts, and volunteers using real-time location and sensor data.
-
 🚨 Smart Safety Network
 
 👥 Team: Hack Attackers
@@ -53,15 +50,15 @@ It uses sensors already available in smartphones, eliminating the need for addit
 
 ---
 
-📸 Prototype
+📊 Project Presentation
 
-(Add your screenshots here if available)
+https://docs.google.com/presentation/d/1vtekqNu6bRHbGOpTzQiDC42x6BrPMrTV/edit?usp=drivesdk&ouid=101366218941937715081&rtpof=true&sd=true
 
 ---
 
 🎥 Demo Video
 
-(Add your Google Drive / YouTube link here)
+https://photos.app.goo.gl/WoUyemDXivyffejMA
 
 ---
 
@@ -96,4 +93,3 @@ Full implementation code can be provided upon request.
 - Faculty of GWEC Ajmer
 
 ---
-
